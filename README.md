@@ -13,6 +13,7 @@ This project demonstrates SQL-based financial data analysis using MySQL Workbenc
 ## Tools Used
 - MySQL Workbench
 - SQL (Aggregate Functions, GROUP BY, ORDER BY)
+- Microsoft Excel
 
 ## Skills Demonstrated
 - Database design
