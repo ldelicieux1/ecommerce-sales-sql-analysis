@@ -21,3 +21,16 @@ This project demonstrates SQL-based financial data analysis using MySQL Workbenc
 - Business intelligence querying
 - Financial performance analysis
 - Structured problem-solving
+## Excel Dashboard
+
+Built an interactive Excel dashboard analyzing $27M+ in e-commerce sales data.
+
+Features:
+- KPI summary (Revenue, Profit, Units Sold, Profit Margin)
+- Revenue by Category analysis
+- Profit by Region analysis
+- Monthly revenue trend analysis
+- Interactive slicers for dynamic filtering
+
+### Dashboard Preview
+![Dashboard Preview](excel-dashboard-preview.png)
